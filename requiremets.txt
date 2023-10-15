@@ -6,3 +6,7 @@ colors
 android platform
 dark mode
 video callls
+
+payments option
+send money
+receive money
