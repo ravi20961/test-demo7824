@@ -3,3 +3,6 @@ This is chat application
 Emoji
 Type option
 colors
+android platform
+dark mode
+video callls
